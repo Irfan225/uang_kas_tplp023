@@ -1,4 +1,4 @@
-# aplikasi-uang-kas-dengan-php-native
+# aplikasi-uang-kas-dengan-php-native-untuk-tplp023
 Aplikasi Sederhana untuk mengelola uang kas sekaligus pengeluarannya. 
 Aplikasi ini hanya dapat menghandle satu kelas saja.
 Meskipun begitu, tapi aplikasi ini sangat praktis dan tetap optimal dengan bisa menghandle uang kas dalam beberapa tahun serta menyediakan fitur-fitur yang sangat dibutuhkan seperti: riwayat pembayaran dan pengeluaran, laporan hasil perbulan dan lain-lain. 
@@ -14,25 +14,11 @@ Cara memasangnya:
 
 Akun:
 
-Administrator:
+Tamu:
 
-❥ Username: andri123
+❥ Username: tamu
 
-❥ Password: 123456
-
-
-Bendahara:
-
-❥ Username: andre123
-
-❥ Password: 123456
-
-
-Guru:
-
-❥ Username: annisa321
-
-❥ Password: 123456
+❥ Password: tamutplp023
 
 
 Fitur:
